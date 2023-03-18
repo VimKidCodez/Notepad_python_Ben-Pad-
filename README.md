@@ -1,2 +1,2 @@
 There are 2 notepad projects with source code </>......
-THIS IS UNDER MIT LICENSE
+
